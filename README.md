@@ -5,3 +5,4 @@ In this project, through the use of Matlab and Simulink, we apply the mathematic
 We start implementing the Iterative Shrinkage‐Thresholding Operator (IST) to secure estimation under sparse sensor attacks, solving the Lasso Problem. In the report below we have analysed the results in different scenarios.
 
 # Control part
+Design of feedback control loops that guarantee robustness against uncertainty in the mathematical model, adversarial network attacks and perturbations by means of decentralized control design techniques.
